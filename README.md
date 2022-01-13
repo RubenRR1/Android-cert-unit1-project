@@ -1,3 +1,10 @@
+This is the modified project for the Lemonade app as seen on the Android Developer course for Unit 1. 
+
+Modifications were made by Ruben Ruiz.
+
+
+-------------------------------------------------------
+
 Project: Lemonade App - Starter Code
 ==================================
 
