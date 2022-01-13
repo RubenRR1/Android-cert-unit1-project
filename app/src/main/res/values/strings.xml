@@ -1,0 +1,28 @@
+<!--
+  ~ Copyright (C) 2021 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Lemonade</string>
+
+    <string name="squeeze_count">Squeeze count: %1$d, keep squeezing!</string>
+    <string name="selectDescription_en">Please pick up a lemon</string>
+    <string name="squeezeStart_en">Press on the lemon to squeeze it</string>
+    <string name="squeezeDescription1_en">It still has some juice left...</string>
+    <string name="squeezeDescription2_en">And another one...</string>
+    <string name="squeezeDescription3_en">Once more...</string>
+    <string name="squeezeFinal_en">ALMOST THERE!!!</string>
+    <string name="drinkDescription1_en">Nice job!\nIts all yours!</string>
+    <string name="restartDescription_en">Refreshing isn\'t it?\nPress on the glass to\nstart over.</string>
+</resources>
